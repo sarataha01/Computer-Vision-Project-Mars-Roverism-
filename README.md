@@ -9,6 +9,7 @@ Right click and select Open in Terminal
 ![image](https://user-images.githubusercontent.com/101889904/206872065-12254a8e-c6f4-463d-807a-74831d166b75.png)
 
 Type in the Terminal -> python3 drive_rover.py
+
 A message will pop up asking if you want to start debbuging or not.
 After choosing yes or no, Open Roverism.x86_64 then select Autonomus mode
 
